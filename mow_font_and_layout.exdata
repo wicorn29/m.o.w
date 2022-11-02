@@ -1,0 +1,11 @@
+<test>
+The quick brown fox jumped over the lazy river
+
+<layout>
+q w e r t y u i o p a s d f g h j k l z x c v b n m
+Q W E R T Y U I O P A S D F G H J K L Z X C V B N M
+<stamp>
+`1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./
+<stamp2>
+~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>?
+<unicode>
