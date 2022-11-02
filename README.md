@@ -1,2 +1,2 @@
-# m.o.w
-Mac on Windows
+# M   O    W
+# Mac on   Windows
